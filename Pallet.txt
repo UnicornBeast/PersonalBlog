@@ -1,0 +1,4 @@
+Color pallet for website
+(59, 75, 72) Cambridge Blue (Minor Blue)
+(34, 29, 89) Majorelle Blue (Major Blue)
+(37, 36, 36) Davy's Gray (Other)
